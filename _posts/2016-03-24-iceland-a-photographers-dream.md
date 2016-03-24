@@ -5,26 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Iceland: A Photographer's Dream"
-datePublished: '2016-03-24T18:24:31.907Z'
-dateModified: '2016-03-24T18:24:00.254Z'
+description: "Iceland: A Photographer's Dream March, 2016."
+datePublished: '2016-03-24T18:27:37.015Z'
+dateModified: '2016-03-24T18:26:59.024Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-iceland-a-photographers-dream.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-iceland-a-photographers-dream.md
-published: true
 url: iceland-a-photographers-dream/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c41bb142-88c3-43f4-bfb1-b00d0bfc0af6.jpg)
 
-Iceland: A Photographer's Dream March, 2016\.
+Iceland: A Photographer's Dream (March, 2016.)
 
 Last year my husband and I celebrated our tenth wedding anniversary. As part of that special event we decided we would book a holiday to Iceland. We originally intended to travel there for Christmas and New Year, however we were thwarted by leaving it too late to book, thus we could only achieve 7 days. In hindsight this was in our favour, even if a little disappointed at the time. Travelling to Iceland in March would be much better...longer days for starters.
 
