@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Iceland: A Photographer's Dream."
-datePublished: '2016-03-24T19:04:25.909Z'
-dateModified: '2016-03-24T18:51:20.730Z'
+datePublished: '2016-03-24T19:09:09.142Z'
+dateModified: '2016-03-24T19:08:52.183Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-iceland-a-photographers-dream.md
@@ -23,10 +23,11 @@ _type: Article
 
 ---
 Iceland: A Photographer's Dream.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab63df675d07f69b37803f985d637f8f14fb3523.jpg)
 
 Last year my husband and I celebrated our tenth wedding anniversary. As part of that special event we decided we would book a holiday to Iceland. We originally intended to travel there for Christmas and New Year, however we were thwarted by leaving it too late to book, thus we could only achieve 7 days. In hindsight this was in our favour, even if a little disappointed at the time. Travelling to Iceland in March would be much better...longer days for starters.
 With much preparation, research and general internet surfing, we were ready to head off on our Icelandic adventure. Full of anticipation, excitement and just not knowing what to expect once we arrived. We weren't disappointed with what awaited us...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f861b8-50e1-4901-8cca-ddf701dd27ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9de48dd-d7d7-4505-b03f-f72228d2f31d.jpg)
 
 We drove and drove but the roads were easy to traverse, no road rage, no endless traffic jams, just long open roads. Sometimes the scenery was a minimalist's dream, follow a bend and you're in mountainous terrain, then in amongst the moss fields. Such diversity. Wide open spaces, with scattered farming communities with their traditional stone and grass huts built into the base of mountains. The odd church here and there with maybe just one or two houses nearby to serve them. Huge glacier faces that seem to go on for miles and miles and miles. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aa23855-4a8b-4541-990f-9dcda5d430d5.jpg)
 
