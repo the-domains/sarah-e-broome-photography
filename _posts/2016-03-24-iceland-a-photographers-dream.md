@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Iceland: A Photographer's Dream."
-datePublished: '2016-03-24T18:44:49.015Z'
-dateModified: '2016-03-24T18:44:25.433Z'
+datePublished: '2016-03-24T19:04:25.909Z'
+dateModified: '2016-03-24T18:51:20.730Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-iceland-a-photographers-dream.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-iceland-a-photographers-dream.md
-published: true
 url: iceland-a-photographers-dream/index.html
 _type: Article
 
