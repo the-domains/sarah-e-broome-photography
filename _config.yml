@@ -1,40 +1,28 @@
-layout_spectrum: 0.5977443
+name: Sarah E Broome Photography
+favicon: null
+layout_spectrum: 0.26141
+typography_spectrum: 0.13491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
 color:
-  saturation: 0.7143834831658751
-  brandStrength: 0.9249961338937283
-  rhythmicContrast: 0.3181545473635197
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.7776248699519783
-typography_spectrum: 0.1713212
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Sarah E Broome Photography
+    - '#99cad0'
+    - '#64a6b6'
+    - '#81b7c1'
+    - '#5195a8'
+    - '#3d738b'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.25
+  rhythmicContrast: 0.25
+purpose: []
