@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Seagulls, West Bay'
-datePublished: '2016-03-26T07:07:51.368Z'
-dateModified: '2016-03-26T07:06:46.791Z'
+datePublished: '2016-03-26T07:15:03.469Z'
+dateModified: '2016-03-26T07:07:55.537Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-seagulls-west-bay.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-seagulls-west-bay.md
-published: true
 url: seagulls-west-bay/index.html
 _type: Article
 
