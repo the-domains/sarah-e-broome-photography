@@ -1,5 +1,7 @@
-favicon: null
-name: Sarah E Broome Photography
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#C1BBB6'
   rhythmicContrast: 0
 typography_spectrum: 0.3238453
-layout_spectrum: 0.24013
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.3861439
+favicon: null
+name: Sarah E Broome Photography
